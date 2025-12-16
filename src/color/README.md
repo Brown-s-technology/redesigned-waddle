@@ -7,7 +7,7 @@ A feature to remind you of your favorite color
 
 ```json
 "features": {
-    "ghcr.io/devcontainers-community/features-starter/color:1": {}
+    "ghcr.io/Brown-s-technology/redesigned-waddle/color:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A feature to remind you of your favorite color
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers-community/features-starter/blob/main/src/color/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Brown-s-technology/redesigned-waddle/blob/main/src/color/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
